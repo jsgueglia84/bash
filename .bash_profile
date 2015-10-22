@@ -5,7 +5,7 @@ export PATH
 
 #custom stuff mate/api key
 export EDITOR="/usr/local/bin/mate -w"
-export HOMEBREW_GITHUB_API_TOKEN=de68c0bd42db8879b9a07353753a0baf983c42b7
+export HOMEBREW_GITHUB_API_TOKEN #YOUR API TOKEN
 
 # Load the shell dotfiles, and then some:
 # * ~/.path can be used to extend `$PATH`.
